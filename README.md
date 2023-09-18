@@ -4,7 +4,7 @@ This repository contains a Python notebook that demonstrates multi-class classif
 ## Dataset
 The dataset used in this notebook is the GTSRB - German Traffic Sign Recognition Benchmark, which consists of thousands of images representing various traffic signs.It contains 43 classes of traffic signs having varying light conditions and rich backgrounds.
 
-<img src="Images/gtsrb.png" style="float: left; text-align: center;">
+<img src="Images/gtsrb.jpeg" style="float: left; text-align: center;">
 
 ## Dependencies
 To run the notebook, you need the following dependencies:
